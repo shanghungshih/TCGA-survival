@@ -1,6 +1,6 @@
 # survival
 
-### data (大多為 paired data (Normal, Tumor)
+### data EDA (大多為 paired data (Normal, Tumor)
 - Clinical
 - Transcriptome Profiling
 - Biospecimen
@@ -8,7 +8,7 @@
 - Copy Number Variation
 - DNA Methylation
 
-| data type | GBM | KIRC | LUSC | OV |
+| data count | GBM | KIRC | LUSC | OV |
 | :-------- | :------------ |:---------------:| -----:| -----: |
 | clinical  | x | x | x | x |
 | mRNA      | x | x | x | x |
