@@ -9,13 +9,14 @@
 - DNA Methylation
 
 | data type | GBM | KIRC | LUSC | OV |
-| clinical | :------------ |:---------------:| -----:| -----: |
-| mRNA | x | x | x | x |
-| miRNA | x | x | x | x |
-| CNV | x | x | x | x |
+| :-------- | :------------ |:---------------:| -----:| -----: |
+| clinical  | x | x | x | x |
+| mRNA      | x | x | x | x |
+| miRNA     | x | x | x | x |
+| CNV       | x | x | x | x |
 | methylation | x | x | x | x |
-| RPPA | x | x | x | x |
-| Survival | x | x | x | x |
+| RPPA      | x | x | x | x |
+| Survival  | x | x | x | x |
 - - -
 
 ### paper
