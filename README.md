@@ -39,7 +39,7 @@
 ### [Kaplan-Meier曲線](http://biostatdept.cmu.edu.tw/doc/epaper_a/paper/teaching_corner_062_1.pdf)
 - 每次發生event（死亡 or 退出計畫），即計算一次
 - 目的：可忽略前一時段退出計畫的人
-- 前提假設：每一階段不會有大量人退出
+- 前提假設：每一時段不會有大量人退出
 
 ### [Cox model](http://biostatdept.cmu.edu.tw/doc/epaper_a/paper/teaching_corner_064.pdf)
 - 線性模型
