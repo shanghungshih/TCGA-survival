@@ -1,4 +1,5 @@
-# survival
+# TCGA-survival
+> Using clinical data and molecular level data to predict survival of cancer patients.
 
 ### data EDA (大多為 paired data (Normal, Tumor)
 - Clinical
