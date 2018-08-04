@@ -3,17 +3,17 @@
 ### data
 - Clinical
 - 大多為 paired data (Normal, Tumor)
- - Transcriptome Profiling
- - Biospecimen
- - Simple Nucleotide Variation（4種variant caller，SomaticSniper, Mutect, Muse, Varscan）
- - Copy Number Variation
- - DNA Methylation
+ -- Transcriptome Profiling
+ -- Biospecimen
+ -- Simple Nucleotide Variation（4種variant caller，SomaticSniper, Mutect, Muse, Varscan）
+ -- Copy Number Variation
+ -- DNA Methylation
 - - -
 
 ### paper
 - 2014 Random forest [Assessing the clinical utility of cancer genomic and proteomic data across tumor types](https://www.nature.com/articles/nbt.2940.pdf)
- - clinical: 分期（5年存活率, T, N, M 分期)
- - 
+ -- clinical: 分期（5年存活率, T, N, M 分期)
+ -- 
  
 - 2017 NN [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://www.nature.com/articles/s41598-017-11817-6.pdf)
 - - -
