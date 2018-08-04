@@ -1,7 +1,13 @@
 # survival
 
 ### data
-- microarray
+- Clinical
+- 大多為 paired data (Normal, Tumor)
+ - Transcriptome Profiling
+ - Biospecimen
+ - Simple Nucleotide Variation（4種variant caller，SomaticSniper, Mutect, Muse, Varscan）
+ - Copy Number Variation
+ - DNA Methylation
 - - -
 
 ### paper
