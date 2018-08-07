@@ -4,7 +4,7 @@
 ### [TCGA Pancancer Survival Prediction](https://www.synapse.org/#!Synapse:syn1710282/wiki/27303)
 - - -
 
-### data EDA (大多為 paired data (Normal, Tumor)
+### data EDA
 
 | data count | GBM | KIRC | LUSC | OV |
 | :--------: | :---: |:-----:| :-----:| :-----: |
@@ -17,7 +17,12 @@
 |Survival|211|244|122|380|
 - - -
 
-### additional TCGA data
+| data count | GBM | KIRC | LUSC | OV |
+| :--------: | :---: |:-----:| :-----:| :-----: |
+|number of features|43437|38300|21868|43870|
+- - -
+
+### additional TCGA data (大多為 paired data (Normal, Tumor)
 - Clinical
 - Transcriptome Profiling
 - Biospecimen
