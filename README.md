@@ -14,13 +14,13 @@
 
 | data count | GBM | KIRC | LUSC | OV |
 | :-------- | :------------ |:---------------:| -----:| -----: |
-| clinical  | x | x | x | x |
-| mRNA      | x | x | x | x |
-| miRNA     | x | x | x | x |
-| CNV       | x | x | x | x |
-| methylation | x | x | x | x |
-| RPPA      | x | x | x | x |
-| Survival  | x | x | x | x |
+| clinical  | 211 | 244 | 122 | 380 |
+| mRNA      | 211 | 244 | 122 | 380 |
+| miRNA     | 211 | 244 | 122 | 380 |
+| CNV       | 211 | 244 | 122 | 380 |
+| methylation | 211 | 244 | - | 380 |
+| RPPA      | - | 244 | 122 | 380 |
+| Survival  | 211 | 244 | 122 | 380 |
 - - -
 
 ### paper
