@@ -5,15 +5,9 @@
 - - -
 
 ### data EDA (大多為 paired data (Normal, Tumor)
-- Clinical
-- Transcriptome Profiling
-- Biospecimen
-- Simple Nucleotide Variation（4種variant caller，SomaticSniper, Mutect, Muse, Varscan）
-- Copy Number Variation
-- DNA Methylation
 
 | data count | GBM | KIRC | LUSC | OV |
-| :--------: | :------------: |:---------------:| :-----:| :-----: |
+| :--------: | :---: |:-----:| :-----:| :-----: |
 |clinical|211|244|122|380|
 |mRNA|211|244|122|380|
 |miRNA|211|244|122|380|
@@ -21,6 +15,15 @@
 |methylation|211|244|x|380|
 |RPPA|x|244|122|380|
 |Survival|211|244|122|380|
+- - -
+
+### additional TCGA data
+- Clinical
+- Transcriptome Profiling
+- Biospecimen
+- Simple Nucleotide Variation（4 kinds of variant callers，Somaticsniper, Mutect, Muse, Varscan）
+- Copy Number Variation
+- DNA Methylation
 - - -
 
 ### paper
