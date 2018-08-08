@@ -39,7 +39,7 @@
 
 - 2017 NN [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://www.nature.com/articles/s41598-017-11817-6.pdf)
 
-- 2018 DL [Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning](https://arxiv.org/abs/1708.09843)
+- 2018 DL [Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning](https://arxiv.org/pdf/1708.09843)
 - - -
 
 ### [C-index](http://ttdoc.cn/article/652.jhtml)
