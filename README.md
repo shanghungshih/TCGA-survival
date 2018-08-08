@@ -15,9 +15,11 @@
 |methylation|211|244|x|380|
 |RPPA|x|244|122|380|
 |Survival|211|244|122|380|
+|data with label|155|150|77|252|
+
 - - -
 
-| data count | GBM | KIRC | LUSC | OV |
+| features count | GBM | KIRC | LUSC | OV |
 | :--------: | :---: |:-----:| :-----:| :-----: |
 |number of features|43437|38300|21868|43870|
 - - -
