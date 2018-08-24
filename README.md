@@ -6,7 +6,7 @@
 
 ### 2014 data
 
-| data count | GBM | KIRC | LUSC | OV |
+| 2014 count | GBM | KIRC | LUSC | OV |
 | :--------: | :---: |:-----:| :-----:| :-----: |
 |clinical|210|243|121|379|
 |mRNA|210|243|121|379|
@@ -25,7 +25,7 @@
 
 ### 2017 data
 
-| data count | OV | CESC | BLCA | ESCA | PAAD | COAD | BRCA | CHOL | GBM | PCPG | READ | PRAD | THCA | UCS | HNSC | KIRP | DLBC | LIHC | LUSC | KIRC | STAD | SARC | THYM | LGG | SKCM | TGCT | UCEC | ACC|
+| 2017 count | OV | CESC | BLCA | ESCA | PAAD | COAD | BRCA | CHOL | GBM | PCPG | READ | PRAD | THCA | UCS | HNSC | KIRP | DLBC | LIHC | LUSC | KIRC | STAD | SARC | THYM | LGG | SKCM | TGCT | UCEC | ACC|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:|
 |Mutation|307 | 304 | 408 | 184 | 178 | 191 | 1093 | 36 | 166 | 179 | 72 | 497 | 501 | 57 | 520 | 290 | 48 | 373 | 501 | 533 | 415 | 262 | 120 | 530 | 103 | 150 | 177 | 79|
 |CNVGene|307 | 304 | 408 | 184 | 178 | 191 | 1093 | 36 | 166 | 179 | 72 | 497 | 501 | 57 | 520 | 290 | 48 | 373 | 501 | 533 | 415 | 262 | 120 | 530 | 103 | 150 | 177 | 79|
