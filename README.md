@@ -15,8 +15,6 @@
 |methylation|210|243|x|379|
 |RPPA|x|243|121|379|
 |Survival|210|243|121|379|
-|data with label|155|150|77|252|
-|data without label|55|93|44|127|
 
 - - -
 
